@@ -2,10 +2,11 @@ streamlit
 python-dotenv
 langchain
 langchain-openai
+langchain-text-splitters
+langchain-chroma
 openai
 chromadb
 pydub
 yt-dlp
 ffmpeg-python
 openai-whisper
-langchain-text-splitters

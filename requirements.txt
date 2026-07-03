@@ -1,12 +1,39 @@
 streamlit
 python-dotenv
+
+# LLM / LangChain
 langchain
+langchain-core
 langchain-openai
+langchain-community
 langchain-text-splitters
 langchain-chroma
-openai
+
+# Vector DB
 chromadb
+
+# Embeddings
+sentence-transformers
+huggingface-hub
+
+# Whisper
+openai-whisper
+
+# Audio / Video
+ffmpeg-python
 pydub
 yt-dlp
-ffmpeg-python
-openai-whisper
+
+# AI Models
+openai
+mistralai
+
+# Data Processing
+numpy
+pandas
+
+# PDF Export
+reportlab
+
+# HTTP Requests
+requests

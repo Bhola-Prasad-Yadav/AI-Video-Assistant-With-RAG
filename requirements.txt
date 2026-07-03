@@ -6,3 +6,4 @@ openai
 chromadb
 pydub
 yt-dlp
+ffmpeg-python

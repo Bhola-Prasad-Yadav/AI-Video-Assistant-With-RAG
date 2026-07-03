@@ -37,3 +37,7 @@ reportlab
 
 # HTTP Requests
 requests
+
+torch
+torchvision
+transformers

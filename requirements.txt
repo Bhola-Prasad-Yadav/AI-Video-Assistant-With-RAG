@@ -7,3 +7,4 @@ chromadb
 pydub
 yt-dlp
 ffmpeg-python
+openai-whisper

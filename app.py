@@ -1,5 +1,5 @@
 import streamlit as st
-<<<<<<< HEAD
+# <<<<<<< HEAD
 import time
 from dotenv import load_dotenv
 from utils.audio_processor import process_input
@@ -544,7 +544,7 @@ else:
             <span class="badge badge-green">RAG Chat</span>
         </div>
     </div>""", unsafe_allow_html=True)
-=======
+# =======
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 import os
@@ -678,4 +678,4 @@ if prompt:
     st.session_state.messages.append(
         AIMessage(content=answer)
     )
->>>>>>> 2892294ac1547f608fafa26dc8ffd5edbb70fcf5
+# >>>>>>> 2892294ac1547f608fafa26dc8ffd5edbb70fcf5

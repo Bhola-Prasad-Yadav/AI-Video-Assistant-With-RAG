@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-
+langchain-community
 # LLM / LangChain
 langchain
 langchain-core

@@ -1,4 +1,8 @@
 streamlit
+python-dotenv
 langchain
 langchain-openai
 openai
+chromadb
+pydub
+yt-dlp

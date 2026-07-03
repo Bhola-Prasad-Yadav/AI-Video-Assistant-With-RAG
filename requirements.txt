@@ -8,3 +8,4 @@ pydub
 yt-dlp
 ffmpeg-python
 openai-whisper
+langchain-text-splitters
